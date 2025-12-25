@@ -5,7 +5,6 @@
 - 😄 Pronouns: 😂 ...
 - ⚡ Fun fact: Nothing ...
 - 😈 Game Changer 😉
-- ❤️U will be my wifey tomarrow❤️
 <!---
 BuduruNaveen/BuduruNaveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
