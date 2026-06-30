@@ -149,7 +149,6 @@ src="https://img.shields.io/twitter/follow/naveen0x01?logo=twitter&style=for-the
  
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
 </p>
 
 <p></p>
