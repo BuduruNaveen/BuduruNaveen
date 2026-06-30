@@ -191,6 +191,15 @@ src="https://img.shields.io/twitter/follow/naveen0x01?logo=twitter&style=for-the
 </p>
 
 <p></p>
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
+<p align="center">
+<a>🌱</a>
+</p>
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ### Badges
 
