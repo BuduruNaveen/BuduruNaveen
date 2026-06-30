@@ -15,6 +15,111 @@ NO BIO NO BIOLOGY
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
 </p>
 
+```javascript
+const anmol = {
+  name: "BUDURU NAVEEN",
+  pronouns: ["he", "him"],
+  languages: ["TypeScript", "JavaScript", "Python"],
+  askMeAbout: [
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "SaaS products",
+    "system design"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "Chakra UI",
+        "shadcn/ui"
+      ]
+    },
+
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: [
+        "EC2",
+        "S3",
+        "RDS",
+        "Lambda",
+        "Fargate",
+        "CloudWatch"
+      ],
+      gcp: [
+        "Compute Engine",
+        "Cloud Run",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Firestore",
+        "BigQuery"
+      ]
+    },
+
+    databases: {
+      relational: ["PostgreSQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["Redis"]
+    },
+
+    realtimeAndAPIs: [
+      "REST APIs",
+      "WebSockets",
+      "Socket.IO"
+    ],
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Vector databases",
+        "AI agents",
+        "Workflow automation"
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems"
+      ],
+      models: ["OpenAI", "Gemini", "Llama"]
+    }
+  },
+
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    cloudPatterns: [
+      "event-driven",
+      "agentic systems",
+      "scalable SaaS"
+    ],
+    data: ["relational", "nosql", "in-memory"]
+  },
+currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
+funFact: "Most bugs disappear after a coffee and a clean commit history"
+};
+```
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BuduruNaveen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/naveen0x01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/buduru-naveen-4916172b4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
