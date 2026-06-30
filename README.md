@@ -16,7 +16,7 @@ NO BIO NO BIOLOGY
 </p>
 
 ```javascript
-const anmol = {
+const navi = {
   name: "BUDURU NAVEEN",
   pronouns: ["he", "him"],
   languages: ["TypeScript", "JavaScript", "Python"],
